@@ -4,7 +4,7 @@
 Abstraindo o domínio Bootcamp com intuito de colocar em prática os conceitos Programação Orientada a Objetos (POO) com Java, aplicando seus pilares: Abstração, Encapsulamento, Herança e Polimorfismo.
 como Desafio de Projeto da [Digital Innovation One](https://www.dio.me/).
 
-## 📋 Pilares da POO 
+## 🏛 Pilares da POO 
 
 <table>
   <tr>
