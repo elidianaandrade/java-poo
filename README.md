@@ -32,7 +32,7 @@ como Desafio de Projeto da [Digital Innovation One](https://www.dio.me/).
 
 ## 🔍 Referências
 
-- [Repositório do Instrutora Camila Cavalcante](https://github.com/cami-la/desafio-poo-dio)
+- [Repositório da Instrutora Camila Cavalcante](https://github.com/cami-la/desafio-poo-dio)
 - [Digital Innovation One](https://www.dio.me/).
 
 <div align="right">
