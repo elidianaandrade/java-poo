@@ -34,9 +34,3 @@ como Desafio de Projeto da [Digital Innovation One](https://www.dio.me/).
 
 - [Repositório da Instrutora Camila Cavalcante](https://github.com/cami-la/desafio-poo-dio)
 - [Digital Innovation One](https://www.dio.me/).
-
-<div align="right">
-  <a href="#top">
-    <img alt="Up" height="25" src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/solid/angle-up.svg">
-  </a>
-</div>
